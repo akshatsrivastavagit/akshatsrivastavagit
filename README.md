@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Akshat Srivastava</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00FEEF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Akshat+Srivastava;Aspiring+Data+Engineer+%26+Full-Stack+Developer;Cloud+%7C+AI+%7C+DevOps+Enthusiast" alt="Typing SVG" />
+</h1>
+
 <p align="center">
   <b>Aspiring Data Engineer & Full-Stack Developer | Cloud & AI Enthusiast | DevOps Learner</b>
 </p>
@@ -16,28 +19,15 @@
 
 I'm a **Computer Science undergrad** at Lovely Professional University with a passion for **building scalable backend systems**, **AI-powered tools**, and **cloud-native solutions**. I thrive at the intersection of data, engineering, and intelligent automation.
 
-- 🔭 Currently working on backend & AI-integrated tools for productivity
-- 🌱 Diving deeper into **Azure**, **LLMs**, and **MLOps**
-- 🎯 Career goals: **Data Engineering**, **AI Infrastructure**, and **DevOps Automation**
+- 🔭 Currently working on backend & AI-integrated tools for productivity  
+- 🌱 Diving deeper into **Azure**, **LLMs**, and **MLOps**  
+- 🎯 Career goals: **Data Engineering**, **AI Infrastructure**, and **DevOps Automation**  
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Languages:**  
-`C` `C++` `Python` `JavaScript` `Java`
-
-**Web & Frameworks:**  
-`HTML` `CSS` `Node.js` `Express.js` `React.js` `EJS` `Flask` `Gradio`
-
-**Databases & Cloud:**  
-`MongoDB` `MySQL` `Azure Blob Storage` `Azure Data Factory` `Azure App Services`
-
-**Tools & DevOps:**  
-`Docker` `Git & GitHub` `Jenkins` `Power BI` `CI/CD` `ETL Pipelines` `OCR (Tesseract)`
-
-**AI/ML Toolkit:**  
-`TensorFlow` `Scikit-Learn` `PyTorch` `OpenAI API` `Pandas` `NumPy`
+![Tools](https://skillicons.dev/icons?i=python,cpp,java,js,nodejs,react,mongodb,mysql,docker,azure,flask,git,github,jenkins,pytorch,tensorflow,html,css)
 
 ---
 
@@ -99,5 +89,5 @@ I'm a **Computer Science undergrad** at Lovely Professional University with a pa
 ---
 
 <p align="center">
-  <i>“Obsessed with improvement, driven by data, and powered by coffee ☕”</i>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=9EE6FE&center=true&vCenter=true&width=600&lines=Obsessed+with+improvement;Driven+by+data;Powered+by+coffee+%E2%98%95" alt="Typing animation footer" />
 </p>
