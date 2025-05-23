@@ -10,7 +10,7 @@
   <a href="mailto:akshat201103@gmail.com"><img src="https://img.shields.io/badge/Gmail-akshat201103@gmail.com-red?style=flat-square&logo=gmail" /></a>
   <a href="https://linkedin.com/in/akshatsrivastava2011"><img src="https://img.shields.io/badge/LinkedIn-akshatsrivastava2011-blue?style=flat-square&logo=linkedin" /></a>
   <a href="https://akshat-srivastava-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-lightgrey?style=flat-square&logo=vercel" /></a>
-  <a href="https://github.com/akshatsrivastavagit"><img src="https://img.shields.io/github/followers/akshatsrivastavagit?label=GitHub&style=flat-square&logo=github" /></a>
+  <a href="https://github.com/akshatsrivastavagit"><img src="https://img.shields.io/badge/GitHub-akshatsrivastavagit-black?style=flat-square&logo=github" /></a>
 </p>
 
 ---
